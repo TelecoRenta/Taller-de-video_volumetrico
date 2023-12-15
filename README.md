@@ -10,7 +10,7 @@ and making them comfortable with using this new technology understanding the cha
 related to the bulky size and limitations when streaming and other real time applications are
 needed
 
-The course is supported by two **PDF guides**, the Guide for the instructor and the Guide for the student. These guides will address you to a dowloadable set of other files.
+The course is supported by two **PDF guides**, one for the course instructor and another for the student. These guides will address you to a dowloadable set of other files.
 
 
 
