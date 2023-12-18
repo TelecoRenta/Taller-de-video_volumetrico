@@ -2,7 +2,7 @@
 
 
 
-Course title: ***Video Compression Workshop 2023***
+Workshop title: ***Video Compression Workshop 2023***
 
 The workshop aims at introducing volumetric video processing, in particular
 compression, to students with a previous knowledge on traditional 2D video compression,
@@ -10,7 +10,7 @@ and making them comfortable with using this new technology understanding the cha
 related to the bulky size and limitations when streaming and other real time applications are
 needed
 
-The course is supported by two **PDF guides**, one for the course instructor and another for the student. These guides will address you to a dowloadable set of other files.
+The workshop is supported by two **PDF guides**, one for the instructor and another for the student. These guides will address you to a dowloadable set of other files.
 
 
 
@@ -21,7 +21,7 @@ The course is supported by two **PDF guides**, one for the course instructor and
 ## About
 
 
-This course has been created by Dr. Gianluca Cernigliaro and Dr. Leonel Toledo at [Fundació I2CAT](https://i2cat.net/), in the frame of the TelecoRenta Proyect from the UNICO 5G Program.        
+This workshop has been created by Dr. Gianluca Cernigliaro and Dr. Leonel Toledo at [Fundació I2CAT](https://i2cat.net/), in the frame of the TelecoRenta Proyect from the UNICO 5G Program.        
 
 
 ## Contact
