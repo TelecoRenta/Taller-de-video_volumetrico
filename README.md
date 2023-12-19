@@ -27,11 +27,11 @@ This workshop has been created by Dr. Gianluca Cernigliaro and Dr. Leonel Toledo
 ## Contact
 
 
-If you have any questions, feedback, or inquiries about the content on this repository, please feel free to reach out to our team using the following email address:
+If you have any questions, feedback, or inquiries about the content on this repository, please feel free to reach out to our team using the following email addresses:
 
 
-- For technical inquiries: [gianluca.cernigliaro@i2cat.net](mailto:gianluca.cernigliaro@gmail.com)
-- For technical inquiries: [leonel.toledo@i2cat.net](mailto:leonel.toledo@i2cat.net)
+- [gianluca.cernigliaro@i2cat.net](mailto:gianluca.cernigliaro@gmail.com)
+- [leonel.toledo@i2cat.net](mailto:leonel.toledo@i2cat.net)
 
 
 
